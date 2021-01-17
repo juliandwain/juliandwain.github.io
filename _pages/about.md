@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-# About Me!
+I am an Aerospace and Industrial Management student at the Technial University of Munich specialized in Artificial Intelligence and its applications to physical systems.
