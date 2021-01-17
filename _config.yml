@@ -14,7 +14,7 @@ description              : &description "My personal page"
 url                      : https://juliandwain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "juliandwain/academicpages.github.io"
-teaser                   : "images/Bewerbungsbild.jpg"
+teaser                   : "images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
