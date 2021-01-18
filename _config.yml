@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "de-DE"
+locale                   : "en-US"
 title                    : "Julian Dwain Stang"
 title_separator          : "-"
 name                     : &name "Julian Dwain Stang"
 description              : &description "My personal page"
 url                      : https://juliandwain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "juliandwain/academicpages.github.io"
+repository               : "juliandwain/juliandwain.github.io"
 teaser                   : "images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,8 +83,8 @@ author:
   name             : "Julian Dwain Stang"
   avatar           : "profile.png"
   bio              : "Aerospace and Industrial Management Student"
-  location         : "Munich, Bavaria, Germany"
-  employer         : "Technical University of Munich"
+  location         : "Munich, Germany"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
