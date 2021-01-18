@@ -1,0 +1,8 @@
+{
+    // Document types for which spelling will be turned ON by default.
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+}
