@@ -14,12 +14,13 @@ redirect_from:
 Education
 ---------
 
-- **Master of Science Developement, Production, and Management in Mechanical Engineering** at the Technical University of Munich, 10/2020 - today
-- **Master of Science Aerospace** at the Technical University of Munich, 10/2019 - today
+- **Master of Science Developement, Production, and Management in Mechanical Engineering** at the Technical University of Munich, *10/2020 - today*
+- **Master of Science Aerospace** at the Technical University of Munich, *10/2019 - today*
   - Term Paper: Embedding the Helmholtz Equation in Neural Networks, Local Grade: 1.0
-- **Bachelor of Science Mechanical Engineering** at the Technical University of Munich, 10/2016 - 09/2019
+- **Bachelor of Science Mechanical Engineering** at the Technical University of Munich, *10/2016 - 09/2019*
   - Bachelor's Thesis: Deep Learning in Vibroacoustic Design Processes, Local Grade: 1.3
-- **High School Diploma** at Christoph-Probst-Gymnasium Gilching, Local Grade: 2.1
+- **High School Diploma** at Christoph-Probst-Gymnasium Gilching, *09/2007 - 06/2015*
+  - Local Grade: 2.1
 
 Work Experience
 ---------------
@@ -50,7 +51,6 @@ Awards and Certificates
   - Additional lectures about Accelerated Computing with CUDA/C++ and OpenACC
 - **First Place in "Film ab!"**, a student competition at the Department of Mechanical Engineering of the Technical University of Munich, *07/2018*
 - **Special Award for Outstanding Achievements in Physics** during A-Level Examinations, issued by the German Physical Society (DPG), *06/2015*
-
 
 Social Skills and Competences
 -----------------------------
