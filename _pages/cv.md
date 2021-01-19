@@ -26,8 +26,9 @@ Work Experience
 ---------------
 
 - **Student Assistant at the Chair of Vibro-Acoustics of Vehicles and Machines**, Technical University of Munich, *10/2019 - today*
-  - Developement of [physics-informed neural networks](https://arxiv.org/abs/1711.10561) (*since 07/2020*) and [neural operators](https://arxiv.org/abs/2003.03485) (*since 01/2021*)
-  - Programming of [vibro-acoustic applications](http://www.apps.vib.mw.tum.de/comsol-software-license-agreement) (*until 06/2020*)
+  - Development of [Fourier neural operators](https://arxiv.org/abs/2010.08895) (*since 01/2021*)
+  - Development of [physics-informed neural networks](https://arxiv.org/abs/1711.10561) (*until 12/2020*)
+  - Development of [vibro-acoustic applications](http://www.apps.vib.mw.tum.de/comsol-software-license-agreement) (*until 06/2020*)
   - Tutor for Engineering Mechanics 3: Dynamics (*until 03/2020*)
 - **Working Student at the Department of Optical Systems**, OHB System AG, *10/2019 - 02/2020*
   - Python programming for optical simulation of space instruments
@@ -38,7 +39,7 @@ Work Experience
 - **Working Student at Siemens eAircraft in Sales & Business Developement**, Siemens AG (now Rolls Royce Electrical), *09/2018 - 02/2019*
   - Development of the eAircraft market model
   - Creation of strategic presentations for executives
-  - Sourcing of external market surves in aviation industry
+  - Sourcing of external market surveys in aviation industry
 - **Student Assistant at the Chair of Thermodynamics**, Technical University of Munich, *10/2018 - 03/2018*
   - Maintaining the chair's library
 
@@ -72,7 +73,7 @@ Technical Skills and Competences
 
 - Programming Languages
   - Python, Julia, Matlab, C/C++
-Python Frameworks
+- Python Frameworks
   - Numpy, Scipy, Pandas, TensorFlow, PyTorch, Matplotlib, Selenium, Sphinx
 - High Performance Computing
   - CUDA, OpenACC
