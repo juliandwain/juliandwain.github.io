@@ -17,7 +17,7 @@ Education
 - **Master of Science Developement, Production, and Management in Mechanical Engineering** at the Technical University of Munich, *10/2020 - today*
 - **Master of Science Aerospace** at the Technical University of Munich, *10/2019 - today*
   - Term Paper: Embedding the Helmholtz Equation in Neural Networks, Local Grade: 1.0
-- **Bachelor of Science Mechanical Engineering** at the Technical University of Munich, *10/2016 - 09/2019*
+- **Bachelor of Science Mechanical Engineering** at the Technical University of Munich, Local Grade: 2.6, *10/2016 - 09/2019*
   - Bachelor's Thesis: Deep Learning in Vibroacoustic Design Processes, Local Grade: 1.3
 - **High School Diploma** at Christoph-Probst-Gymnasium Gilching, *09/2007 - 06/2015*
   - Local Grade: 2.1
@@ -42,6 +42,10 @@ Work Experience
   - Sourcing of external market surveys in aviation industry
 - **Student Assistant at the Chair of Thermodynamics**, Technical University of Munich, *10/2018 - 03/2018*
   - Maintaining the chair's library
+- **Sales Employee** Abercrombie & Fitch, Munich, *09/2015 - 06/2016*
+  - Customer oriented sale and stock maintenance
+- **Pre-Degree Internship**, Schroefl Metalworks, Germering, *06/2016 - 07/2016*
+  -  Practical insight into manufacturing processes
 
 Awards and Certificates
 -----------------------
