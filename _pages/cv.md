@@ -76,24 +76,19 @@ Technical Skills and Competences
 --------------------------------
 
 - Programming Languages
-  - Python, Julia, Matlab, C/C++
+  - Python (*advanced*), Julia (*proficient*), Matlab (*intermediate*), C/C++ (*intermediate*)
 - Python Frameworks
   - Numpy, Scipy, Pandas, TensorFlow, PyTorch, Matplotlib, Selenium, Sphinx
 - High Performance Computing
-  - CUDA, OpenACC
+  - CUDA (*proficient*), OpenACC (*proficient*)
 - Other
-  - MS Office, Latex, Git, Jira
+  - MS Office (*advanced*), Latex (*advanced*), Git (*intermediate*), Jira (*proficient*)
 
 Languages
 ---------
 
-- German
-  - Native
-- Englisch
-  - Fluent
-- French
-  - Basic (Delf A1)
-- Spanish
-  - Basic
-- Japanese
-  - Basic
+- German (*Native*)
+- Englisch (*Fluent*)
+- French (*Basic Delf A1*)
+- Spanish (*Basic*)
+- Japanese (*Basic*)
