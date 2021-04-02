@@ -14,7 +14,8 @@ redirect_from:
 Education
 ---------
 
-- **Master of Science Developement, Production, and Management in Mechanical Engineering** at the Technical University of Munich, *10/2020 - today*
+- **Master of Science Development, Production, and Management in Mechanical Engineering** at the Technical University of Munich, *10/2020 - today*
+  - Area of Specialization: *Management in Mechanical Engineering*
 - **Master of Science Aerospace** at the Technical University of Munich, *10/2019 - today*
   - Term Paper: Embedding the Helmholtz Equation in Neural Networks, Local Grade: 1.0
 - **Bachelor of Science Mechanical Engineering** at the Technical University of Munich, Local Grade: 2.6, *10/2016 - 09/2019*
@@ -25,27 +26,31 @@ Education
 Work Experience
 ---------------
 
-- **Student Assistant at the Chair of Vibro-Acoustics of Vehicles and Machines**, Technical University of Munich, *10/2019 - today*
-  - Development of [Fourier neural operators](https://arxiv.org/abs/2010.08895) (*since 01/2021*)
-  - Development of [physics-informed neural networks](https://arxiv.org/abs/1711.10561) (*until 12/2020*)
-  - Development of [vibro-acoustic applications](http://www.apps.vib.mw.tum.de/comsol-software-license-agreement) (*until 06/2020*)
-  - Tutor for Engineering Mechanics 3: Dynamics (*until 03/2020*)
+- **Working Student Consulting**, CGI, *04/2021 - today*
+  - Support at evaluation of methods in digital transformation, business intelligence, cloud, or agilisation
+  - Active cooperation within the CGI consulting team and directly with the customer
+  - Research, analysis, and presentation of results
+- **Student Assistant at the Chair of Vibro-Acoustics of Vehicles and Machines**, Technical University of Munich, *10/2019 - 03/2021*
+  - Development of [Fourier neural operators](https://arxiv.org/abs/2010.08895) (*01/2021-03/2021*)
+  - Development of [physics-informed neural networks](https://arxiv.org/abs/1711.10561) (*07/2020-12/2020*)
+  - Development of [vibro-acoustic applications](http://www.apps.vib.mw.tum.de/comsol-software-license-agreement) (*10/2019-06/2020*)
+  - Tutor for Engineering Mechanics 3: Dynamics (*10/2019-03/2020*)
 - **Working Student at the Department of Optical Systems**, OHB System AG, *10/2019 - 02/2020*
   - Python programming for optical simulation of space instruments
   - Implementation of unit tests and automatic generation of software documentation
   - Agile software-development (GitLab & Jira)
 - **Student Assistant at the Chair of Aerodynamics and Fluid Mechanics**, Technical University of Munich, *05/2019 - 08/2019*
   - Tutor for [Fluidmechanics 1](https://www.mw.tum.de/en/aer/teaching/sose2020/)
-- **Working Student at Siemens eAircraft in Sales & Business Developement**, Siemens AG (now Rolls Royce Electrical), *09/2018 - 02/2019*
+- **Working Student at Siemens eAircraft in Sales & Business Development**, Siemens AG (now Rolls Royce Electrical), *09/2018 - 02/2019*
   - Development of the eAircraft market model
   - Creation of strategic presentations for executives
   - Sourcing of external market surveys in aviation industry
 - **Student Assistant at the Chair of Thermodynamics**, Technical University of Munich, *10/2018 - 03/2018*
   - Maintaining the chair's library
-- **Sales Employee** Abercrombie & Fitch, Munich, *09/2015 - 06/2016*
-  - Customer oriented sale and stock maintenance
 - **Pre-Degree Internship**, Schroefl Metalworks, Germering, *06/2016 - 07/2016*
   -  Practical insight into manufacturing processes
+- **Sales Employee** Abercrombie & Fitch, Munich, *09/2015 - 06/2016*
+  - Customer oriented sale and stock maintenance
 
 Awards and Certificates
 -----------------------
@@ -66,7 +71,7 @@ Social Skills and Competences
   - Planning and schedule of a tutorial, content selection and visualization
 - **Additive Manufacturing Project** at the [Chair of Machine Elements (FZG)](https://www.mw.tum.de/en/fzg/home/) and the [Chair of Micro Technology and Medical Device Technology](https://www.mw.tum.de/en/mimed/startseite/) of the Technical University of Munich, *05/2018 - 07/2018*
   - Design and manufacturing of a planetary gear in teams of 3
-  - Introduction to manufacturing using additve manufacturing techniques
+  - Introduction to manufacturing using additive manufacturing techniques
   - Presentation of manufacturing steps, possible optimizations, and time schedule
 - **Participation at the Tutorsystem** during Undergraduate Studies at the Department of Mechanical Engineering of the Technical University of Munich, *10/2016 - 07/2017*
   - Various lectures in awareness, communication, presentation techniques, teamwork, time management, and feedback
@@ -89,6 +94,6 @@ Languages
 
 - German (*Native*)
 - Englisch (*Fluent*)
-- French (*Basic Delf A1*)
+- French (*Basic, Delf A1*)
 - Spanish (*Basic*)
 - Japanese (*Basic*)
