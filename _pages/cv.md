@@ -17,9 +17,9 @@ Education
 - **Master of Science Development, Production, and Management in Mechanical Engineering** at the Technical University of Munich, *10/2020 - today*
   - Area of Specialization: *Management in Mechanical Engineering*
 - **Master of Science Aerospace** at the Technical University of Munich, *10/2019 - today*
-  - Term Paper: Embedding the Helmholtz Equation in Neural Networks, Local Grade: 1.0
+  - Term Paper: *Embedding the Helmholtz Equation in Neural Networks*, Local Grade: 1.0
 - **Bachelor of Science Mechanical Engineering** at the Technical University of Munich, Local Grade: 2.6, *10/2016 - 09/2019*
-  - Bachelor's Thesis: Deep Learning in Vibroacoustic Design Processes, Local Grade: 1.3
+  - Bachelor's Thesis: *Deep Learning in Vibroacoustic Design Processes*, Local Grade: 1.3
 - **High School Diploma** at Christoph-Probst-Gymnasium Gilching, *09/2007 - 06/2015*
   - Local Grade: 2.1
 
