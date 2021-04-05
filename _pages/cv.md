@@ -26,7 +26,7 @@ Education
 Work Experience
 ---------------
 
-- **Working Student Consulting**, CGI, *04/2021 - today*
+- **Working Student Consultant**, CGI, *04/2021 - today*
   - Support at evaluation of methods in digital transformation, business intelligence, cloud, or agilisation
   - Active cooperation within the CGI consulting team and directly with the customer
   - Research, analysis, and presentation of results
